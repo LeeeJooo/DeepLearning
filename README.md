@@ -1,2 +1,59 @@
 # DeepLearning
-STUDY DEEPLEARNING
+### STUDY LIST
+- Neural Network
+  - Understanding Neural Networks
+  - Loss Functions
+  - Activation Functions
+  - Weight Initialization
+  - Vanishing / Exploding Gradient Problem
+- [Architecture](https://github.com/LeeeJooo/DeepLearning/tree/main/Architecture)
+  - Feedforward Neural Network
+  - Autoencoder
+  - CNN : Convolutional Neural Network
+  - [RNN](https://github.com/LeeeJooo/DeepLearning/blob/main/Architecture/RNN.pdf) : Recurrent Neural Network
+    - LSTM
+    - GRU
+  - Transformer
+    - Encoder
+    - Decoder
+    - Attention
+  - Siamese Network
+  - GAN : Generative Adversarial Network
+  - Evolving Architectures / NEAT
+  - Residual Connections
+- Traning
+  - Optimizers
+    - SGD
+    - Momentum
+    - Adam
+    - AdaGrad
+    - AdaDelta
+    - Nadam
+    - RMSProp
+  - Learning Rate Schedule
+  - Batch Normalization
+  - Batch Size Effects
+  - Regularization
+    - Early Stopping
+    - Dropout
+    - parameter Penalties
+    - Data Augmentation
+    - Adversarial Training
+  - Multitask Learning
+  - Transfer Learning
+  - Curriculum Learning
+- Tools
+  - Important Library
+    - Awesome Deep Learning
+    - Huggingface Transformers
+  - Tensorflow
+  - PyTorch
+  - Tensorboard
+  - MLFlow
+- Model Optimization(advanced)
+  - Distilla
+  - tization
+  - NAS : Neural Architecture Search
+
+
+(Reference : [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/))
